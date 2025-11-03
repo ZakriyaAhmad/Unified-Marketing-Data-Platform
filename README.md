@@ -65,7 +65,7 @@ Below is the high-level architecture of the platform:
            │  (Dashboards & Insights)  │
            └──────────────────────────┘
 ```
-<img width="1052" height="832" alt="image (12)" src="https://github.com/user-attachments/assets/ea7a2545-71db-4047-bca8-7a2c7d9bc5c8" />
+<img width="900" height="832" alt="image (12)" src="https://github.com/user-attachments/assets/ea7a2545-71db-4047-bca8-7a2c7d9bc5c8" />
 
 ---
 
@@ -165,6 +165,8 @@ Below is the high-level architecture of the platform:
 * Google Ads vs. WhatConverts Conversion Comparison
 * Local SEO (BrightLocal) Ranking Trends
 * Traffic and Engagement (Google Analytics)
+<img width="900" height="854" alt="image" src="https://github.com/user-attachments/assets/a48bb80a-4c9c-4697-b29f-791a55c3ef85" />
+
 
 ---
 
@@ -185,4 +187,5 @@ Below is the high-level architecture of the platform:
   * Users see only their organization’s data.
   * Multi-client access without data leakage.
   * Compliance with data privacy requirements.
+
 
